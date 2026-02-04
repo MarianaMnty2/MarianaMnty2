@@ -1,10 +1,11 @@
-![alt text](image.png)
+![Welcome to Mariana&#39;s Github](https://github.com/user-attachments/assets/9e5409db-c259-451c-903c-c9a37aabf395)
+
 # ¡Hi! 👋 I'm Mariana Montoya
 
 I'm a passionate of learning new programming languages, investing in new technologies and systems programming.
 
 > Don't give up on your desire to make your life extraordinary.
-> - Walt Whitman 
+> ~ Walt Whitman 
 
 * **🌱 Focused on back-end development**
 * **📖 I'm currently learning...**
