@@ -14,7 +14,7 @@ I'm a passionate of learning new programming languages, investing in new technol
 * **🪐 Fun fact:**
   * I love history, art, sports, finance, learning, exploring, reading, watching movies and TV series.
 
-## Programming languages I use the most ...
+## 📚 Languages and tools I have placed my hand on
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,py,django,notion,vscode,github,git" />
 </p>
