@@ -1,10 +1,11 @@
-![Welcome to Mariana&#39;s Github](https://github.com/user-attachments/assets/9e5409db-c259-451c-903c-c9a37aabf395)
+![welcome Mariana github](https://github.com/user-attachments/assets/9e61e6bb-99fa-4a73-9799-aa108d487aa5)
 
 # ¡Hi! 👋 I'm Mariana Montoya
 
 I'm a passionate of learning new programming languages, investing in new technologies and systems programming.
 
 > Don't give up on your desire to make your life extraordinary.
+>
 > ~ Walt Whitman 
 
 * **🌱 Focused on back-end development**
