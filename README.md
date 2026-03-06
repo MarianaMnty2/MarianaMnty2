@@ -10,7 +10,7 @@ I'm a passionate of learning new programming languages, investing in new technol
 
 * **🌱 Focused on back-end development**
 * **📖 I'm currently learning...**
-  * Delving deeper into the fundamentals of Python and React.
+  * Exploring Docker containers and deepening my understanding of Data Structures.
 * **🪐 Fun fact:**
   * I love history, art, sports, finance, learning, exploring, reading, watching movies and TV series.
 
