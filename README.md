@@ -16,7 +16,7 @@ I'm a passionate of learning new programming languages, investing in new technol
 
 ## 📚 Languages and tools I have placed my hand on
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,py,django,notion,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,py,django,docker, notion,vscode,github,git" />
 </p>
 
 
