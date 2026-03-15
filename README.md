@@ -8,7 +8,7 @@ I'm a passionate of learning new programming languages, investing in new technol
 >
 > ~ Walt Whitman 
 
-* **🌱 Focused on back-end development**
+* **🌱 Focused on full-stack development**
 * **📖 I'm currently learning...**
   * Exploring Docker containers and deepening my understanding of Data Structures.
 * **🪐 Fun fact:**
